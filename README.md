@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and making 
 
 ## 🚀 My Tech Stack
 Here are some of the technologies I work with:
-- **Languages:** [e.g., Kotlin, Java, TypeScript, etc.]
-- **Frameworks & Libraries:** [e.g., Spring Boot, React, etc.]
-- **Tools & Platforms:** [e.g., Git, Docker, CI/CD pipelines, etc.]
-- **Databases:** [e.g., MySQL, MongoDB, PostgreSQL, etc.]
+- **Languages:** Kotlin, Java
+- **Frameworks & Libraries:** Spring Boot, Android, Jetpack Compose
+- **Tools & Platforms:** Git, Docker, CI/CD pipelines
+- **Databases:** MySQL, MongoDB
 
 ## 📈 GitHub Stats
 ![Phel-Viwath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phel-Viwath&show_icons=true&theme=radical)
