@@ -15,8 +15,9 @@ Here are some of the technologies I work with:
 - **Tools & Platforms:** Git, Docker, CI/CD pipelines
 - **Databases:** MySQL, MongoDB
 
-## 📈 GitHub Stats & Lanuages
+## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phel-Viwath&show_icons=true&theme=radical)
+## 🛠️ Languages I Use
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phel-Viwath&layout=compact&theme=radical)
 
 ## 💡 Fun Facts
