@@ -16,7 +16,9 @@ Here are some of the technologies I work with:
 - **Databases:** MySQL, MongoDB
 
 ## 📈 GitHub Stats
-![Phel-Viwath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phel-Viwath&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phel-Viwath&show_icons=true&theme=radical)
+## 🛠️ Languages I Use
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phel-Viwath&layout=compact&theme=radical)
 
 ## 💡 Fun Facts
 - 🤓 I love solving challenging problems and building creative solutions.
