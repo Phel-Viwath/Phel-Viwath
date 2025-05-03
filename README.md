@@ -24,12 +24,6 @@ Here are some of the technologies I work with:
 - 🤓 I love solving challenging problems and building creative solutions.
 - 🌍 I'm always looking for opportunities to collaborate on meaningful projects.
 
-## 📌 Featured Projects
-Here are a few projects I'm proud of:
-- 🚀 [Project 1](#) - *Brief description of the project.*
-- 🌟 [Project 2](#) - *Brief description of the project.*
-- 💻 [Project 3](#) - *Brief description of the project.*
-
 ---
 
 Let's connect and create amazing things together!
