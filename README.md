@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and making 
 Here are some of the technologies I work with:
 - **Languages:** Kotlin, Java
 - **Frameworks & Libraries:** Spring Boot, Android, Jetpack Compose
-- **Tools & Platforms:** Git, Docker, CI/CD pipelines
+- **Tools & Platforms:** Git, Docker
 - **Databases:** MySQL, MongoDB
 
 ## 📈 GitHub Stats
