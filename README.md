@@ -5,7 +5,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and making 
 ## 🎯 About Me
 - 🌱 Currently learning: Kotlin, Spring Boot and Android.
 - 💼 Working on: Building a Library app.
-- 🔭 Exploring: Android and Cross plateform development.
+- 🔭 Exploring: Android and Cross-platform development.
+- 🌐 Portfolio: [viwath.vercel.app](https://viwath.vercel.app/)
 - 📫 How to reach me: phelviwath@gmail.com
 
 ## 🚀 My Tech Stack
