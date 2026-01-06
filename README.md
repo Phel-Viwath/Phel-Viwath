@@ -18,6 +18,8 @@ Here are some of the technologies I work with:
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=phel-viwath&show_icons=true&theme=tokyonight&hide_border=true)
 
+![My GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?phel-viwath=anuraghazra&commits_year=2025)
+
 ## 🛠️ Languages I Use
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phel-viwath&show_icons=true&theme=tokyonight&hide_border=true)
 
