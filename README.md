@@ -19,7 +19,7 @@ Here are some of the technologies I work with:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=phel-viwath&show_icons=true)
 
 ## 🛠️ Languages I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phel-viwath&layout=compact)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phel-viwath&layout=compact)
 
 
 ## 💡 Fun Facts
