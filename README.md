@@ -3,17 +3,19 @@
 Welcome to my GitHub profile! I'm passionate about coding, learning, and making great contributions to the tech community.
 
 ## 🎯 About Me
-- 🌱 Currently learning: Kotlin, Spring Boot and Android.
-- 💼 Working on: Building a Library app.
-- 🔭 Exploring: Android and Cross-platform development.
-- 🌐 Portfolio: [viwath.vercel.app](https://viwath.vercel.app/)
+- 🌱 Currently Working: Android Development with Kotlin, Jetpack Compose, and Automation Testing.
+- 💼 Working in: A technology group supporting Banking applications.
+- 📱 Android: Developing and supporting Native Android applications.
+- 🧪 Automation Testing: Working with Appium for Native Mobile Apps and Web Applications.
+- 🔭 Exploring: Android, Cross-platform Development, and Test Automation.
+- 🌐 Portfolio: viwath.vercel.app
 - 📫 How to reach me: phelviwath@gmail.com
 
 ## 🚀 My Tech Stack
 Here are some of the technologies I work with:
-- **Languages:** Kotlin, Java
-- **Frameworks & Libraries:** Spring Boot, Android, Jetpack Compose
-- **Tools & Platforms:** Git, Docker
+- **Languages:** Kotlin, TypeScript
+- **Frameworks & Libraries:** Spring Boot, Android, Jetpack Compose, KMP, Appium, WebdriverIO
+- **Tools & Platforms:** Git, GitHub, Docker
 - **Databases:** MySQL, MongoDB
 
 ## 📈 GitHub Stats
